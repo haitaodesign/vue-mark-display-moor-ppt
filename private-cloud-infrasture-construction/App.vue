@@ -96,7 +96,7 @@ img {
 a {
   font-size: 0.75em;
   padding: 0.125em 0.25em;
-  background-color: gray;
+  background-color: #2B303B;
   color: white;
   border-radius: 0.25em;
   transition: all 0.3s;

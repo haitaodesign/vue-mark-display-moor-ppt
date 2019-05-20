@@ -35,6 +35,8 @@
 
 #### 1. 前端基建开发文档
 
+[VuePress](https://vuepress.vuejs.org/)
+
 ---
 
 ![前端基建开发文档](http://assets.processon.com/chart_image/5ce00bdce4b020998adf4c39.png)
@@ -53,10 +55,13 @@
 4. Nginx
 5. Docker
 6. Vue CLI
+7. VuePress
 
 ---
 
-#### 3. npm 私有库——Verdaccio
+#### 3. npm 私有库
+
+[Verdaccio](https://verdaccio.org/)
 
 `npm install --global verdaccio`
 

@@ -116,11 +116,19 @@
 
 ---
 
+![项目结构](./images/expo.png)
+
+---
+
 ### 3. 开发部署流程
 
 ---
 
 ![前端开发流程图](http://assets.processon.com/chart_image/5ce019d6e4b020998adf59d4.png)
+
+---
+
+![Drone CI](./images/drone.png)
 
 ---
 

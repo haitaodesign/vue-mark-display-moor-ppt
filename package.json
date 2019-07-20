@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel private-cloud-infrasture-construction/index.html -d tmp"
+    "dev": "parcel src/*/*.html -d tmp"
   },
   "repository": {
     "type": "git",

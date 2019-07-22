@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel src/*/*.html -d docs",
-    "build": "parcel build src/*/*.html -d docs"
+    "build": "parcel build src/*/*.html -d docs --public-url '/vue-mark-display-moor-ppt/'"
   },
   "repository": {
     "type": "git",

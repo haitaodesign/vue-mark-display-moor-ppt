@@ -6,7 +6,7 @@
     auto-blank-target
     base-url="/"
     support-preview
-    :src="welcome"
+    :src="main"
     @title="setTitle"
     ref="display"
   ></mark-display>
@@ -16,11 +16,11 @@
 import Hammer from "hammerjs";
 import MarkDisplay from "vue-mark-display";
 // import MarkDisplay from "../index";
-import welcome from "./welcome.md";
+import main from "./main.md";
 
 export default {
   components: { MarkDisplay },
-  data: () => ({ welcome }),
+  data: () => ({ main }),
   mounted() {
     const mc = new Hammer(this.$el);
     const display = this.$refs.display;

@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/haitaodesign/vue-mark-display-moor-ppt#readme",
   "dependencies": {
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "vue-mark-display": "^0.1.3"
   },
   "devDependencies": {
